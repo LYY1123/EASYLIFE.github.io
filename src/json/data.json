@@ -1,0 +1,175 @@
+{
+    "verson": "1.0",
+    "name": "智慧生活",
+    "slogan": "未来城市的推动人",
+    "adress": "兰考县健康南路未来都市26-8",
+    "phone": "15515513450",
+    "wxQRcodeUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/wxQRcode.jpg",
+    "zhshQRcodeUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/zhshQRcode.png",
+    "data": {
+        "1" : [
+            {
+                "name": "索伯菲131-红古-半导体",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf131-hg-cfm.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf131-hg-cfm-big.jpg"
+            },
+            {
+                "name": "索伯菲131-金槟-半导体",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf131-jb-cfm.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf131-jb-cfm-big.jpg"
+            },
+            {
+                "name": "索伯菲131-银色-半导体",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf131-y-cfm.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf131-y-cfm-big.jpg"
+            },
+            {
+                "name": "索伯菲110-玫红-光学",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf110-mh-ofp.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf110-mh-ofp-big.jpg"
+            },
+            {
+                "name": "索伯菲210-红古-光学",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf210-hg-ofp.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf210-hg-ofp-big.jpg"
+            },
+            {
+                "name": "索伯菲210-金槟-光学",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf210-jb-ofp.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf210-jb-ofp-big.jpg"
+            },
+            {
+                "name": "索伯菲210-银色-光学",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf210-y-ofp.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf210-y-ofp-big.jpg"
+            },
+            {
+                "name": "索伯菲710-红古-半导体",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf710-hg-cfm.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf710-hg-cfm-big.jpg"
+            },
+            {
+                "name": "索伯菲710-红古-光学",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf710-hg-ofm.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf710-hg-ofm-big.jpg"
+            },
+            {
+                "name": "索伯菲710-金槟-光学",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf710-jb-ofm.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf710-jb-ofm-big.jpg"
+            },
+            {
+                "name": "索伯菲710-银色-光学",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf710-y-ofm.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf710-y-ofm-big.jpg"
+            },
+            {
+                "name": "索伯菲810-红古-半导体",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf810-hg-cfm.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf810-hg-cfm-big.jpg"
+            },
+            {
+                "name": "索伯菲510-金槟-半导体",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf510-jb-cfm.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf510-jb-cfm-big.jpg"
+            },
+            {
+                "name": "索伯菲510-金槟-光学",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf510-jb-ofm.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf510-jb-ofm-big.jpg"
+            },
+            {
+                "name": "索伯菲610",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf610.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/sbf610-big.jpg"
+            }
+        ],
+        "2": [
+            {
+                "name": "智伴儿童教育机器人",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/zb.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/zb-big.jpg"
+            }
+        ],
+        "3": [
+            {
+                "name": "腾飞319C-红古-半导体",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/tf319c-hg-cfm.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/tf319c-hg-cfm-big.jpg"
+            },
+            {
+                "name": "腾飞319C-银色-半导体",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/tf319c-y-cfm.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/tf319c-y-cfm.jpg"
+            },
+            {
+                "name": "腾飞319V-红古-半导体",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/tf319v-hg-cfm.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/tf319v-hg-cfm-big.jpg"
+            },
+            {
+                "name": "腾飞319V-银色-半导体",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/tf319v-y-cfm.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/tf319v-y-cfm-big.jpg"
+            },
+            {
+                "name": "腾飞X1-红古-光学",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/tfx1-hg-ofp.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/tfx1-hg-ofp-big.jpg"
+            },
+            {
+                "name": "腾飞X1-黑色-光学",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/tfx1-h-ofp.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/tfx1-h-ofp-big.jpg"
+            },
+            {
+                "name": "腾飞6080-红古-光学",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/tf6080-hg-ofm.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/tf6080-hg-ofm-big.jpg"
+            },
+            {
+                "name": "腾飞6080-银色-光学",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/tf6080-y-ofm.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/tf6080-y-ofm-big.jpg"
+            }
+        ],
+        "4": [
+            {
+                "name": "滴塔狗DT4-全自动指纹锁",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/dtgDT4-hg-cfm.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/dtgDT4-hg-cfm-big.jpg"
+            },
+            {
+                "name": "滴塔狗DT3-无线分体",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/dtgDT3.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/dtgDT3-big.jpg"
+            },
+            {
+                "name": "滴塔狗DT1-红古-光学",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/dtgDT1-hg-ofp.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/dtgDT1-hg-ofp.jpg"
+            }
+        ],
+        "5": [
+            {
+                "name": "伊派尔LE07-人脸识别-红古",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/yprLE-07-hg.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/yprLE-07-hg-big.jpg"
+            }
+        ],
+        "6": [
+            {
+                "name": "移康智能可视猫眼+门铃",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/ykznmy.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/ykznmy-big.jpg"
+            }
+        ],
+        "7": [
+            {
+                "name": "智能感应垃圾桶",
+                "picUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/znljt.jpg",
+                "bigPicUrl": "https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/znljt-big.jpg"
+            }
+        ]
+    }
+}
