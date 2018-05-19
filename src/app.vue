@@ -79,8 +79,8 @@
     <!-- video -->
     <div class="video-wrapper"
          v-if="videoShowFlag">
-      <video poster="https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/video-pre.png"
-             src="https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/video/suobofei.mp4"
+      <video poster="http://hyw4445760001.my3w.com/easylife/img/video-pre.png"
+             src="http://hyw4445760001.my3w.com/easylife/video/suobofei.mp4"
              class="video-suobofei"
              controls
              x5-playsinline=""
@@ -198,7 +198,7 @@ export default {
     box-sizing: border-box;
     padding: 1rem;
     color: #fff;
-    background-image: url("https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/content-bg.jpg");
+    background-image: url("http://hyw4445760001.my3w.com/easylife/img/content-bg.jpg");
     background-size: 100% auto;
     &>p,
     h5,
@@ -261,7 +261,7 @@ export default {
     justify-content: space-between;
     width: 100%;
     color: #fff;
-    background-image: url("https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/img/content-bg.jpg");
+    background-image: url("http://hyw4445760001.my3w.com/easylife/img/content-bg.jpg");
     background-size: 100% auto;
     .products {
       margin-bottom: 0.5rem;

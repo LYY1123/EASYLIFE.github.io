@@ -4,6 +4,7 @@ import axios from 'axios';
 axios.defaults.baseURL = window.location.origin;
 axios.defaults.headers.post['Content-Type'] = 'application/x-www-form-urlencoded';
 
+
 // 请求json数据的 动态添加时间戳
 const cacheTime = function () {
   let nowDate = new Date();
@@ -15,5 +16,5 @@ const cacheTime = function () {
 // 广告位
 export const getData = () => axios({
   method: 'get',
-  url: 'https://raw.githubusercontent.com/LYY1123/lyyglob.github.io/master/easylife/src/json/data.json?' + cacheTime()
+  url: 'http://liuyang1123.applinzi.com/easylife/json/data.json?' + cacheTime()
 });
