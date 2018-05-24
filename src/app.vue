@@ -34,7 +34,10 @@
               @click="changeTab(4)">滴塔狗智能锁</span><span :class="{'active': tabId == 5}"
               @click="changeTab(5)">伊派尔智能锁</span><span :class="{'active': tabId == 6}"
               @click="changeTab(6)">智能猫眼</span><span @click="changeTab(7)"
-              :class="{'active': tabId == 7}">智能垃圾桶</span>
+              :class="{'active': tabId == 7}">智能垃圾桶</span><span @click="changeTab(8)"
+              :class="{'active': tabId == 8}">智能扫地机器人</span><span @click="changeTab(9)"
+              :class="{'active': tabId == 9}">智能窗帘</span><span @click="changeTab(10)"
+              :class="{'active': tabId == 10}">无线门铃</span>
       </div>
       <div class="list-wapper">
         <div class="products"

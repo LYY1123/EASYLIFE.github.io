@@ -16,5 +16,5 @@ const cacheTime = function () {
 // 广告位
 export const getData = () => axios({
   method: 'get',
-  url: 'http://lyyzch.club/easylife/json/data.json?' + cacheTime()
+  url: window.location.origin + '/easylife/json/data.json?' + cacheTime()
 });
