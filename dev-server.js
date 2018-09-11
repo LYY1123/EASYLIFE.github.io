@@ -36,7 +36,7 @@ var devMiddlewqreConfig = webpackDevMiddleware(compiler,{
 var proxyOption = [
 	'http://lyyzch.club'
 ]
-app.use('/easylife/json',proxy(proxyOption[0]));
+app.use('/json',proxy(proxyOption[0]));
 app.use(devMiddlewqreConfig);
 
 app.use(require("webpack-hot-middleware")(compiler));

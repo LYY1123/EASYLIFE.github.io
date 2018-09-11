@@ -120,7 +120,7 @@
             {
                 "name": "腾飞319C-银色-半导体",
                 "picUrl": "http://lyyzch.club/easylife/img/tf319c-y-cfm.jpg",
-                "bigPicUrl": "http://lyyzch.club/easylife/img/tf319c-y-cfm.jpg"
+                "bigPicUrl": "http://lyyzch.club/easylife/img/tf319c-y-cfm-big.jpg"
             },
             {
                 "name": "腾飞319V-红古-半导体",
@@ -179,9 +179,24 @@
         ],
         "6": [
             {
-                "name": "移康智能可视猫眼+门铃",
-                "picUrl": "http://lyyzch.club/easylife/img/ykznmy.jpg",
-                "bigPicUrl": "http://lyyzch.club/easylife/img/ykznmy-big.jpg"
+                "name": "带移动侦测智能可视猫眼+门铃",
+                "picUrl": "http://lyyzch.club/easylife/img/znmy1.jpg",
+                "bigPicUrl": "http://lyyzch.club/easylife/img/znmy1-big.jpg"
+            },
+            {
+                "name": "带移动侦测智能可视猫眼+门铃",
+                "picUrl": "http://lyyzch.club/easylife/img/znmy2.jpg",
+                "bigPicUrl": "http://lyyzch.club/easylife/img/znmy2-big.jpg"
+            },
+            {
+                "name": "WIFI智能可视猫眼+门铃",
+                "picUrl": "http://lyyzch.club/easylife/img/znmyWIFI1.jpg",
+                "bigPicUrl": "http://lyyzch.club/easylife/img/znmyWIFI1-big.jpg"
+            },
+            {
+                "name": "WIFI智能可视猫眼+门铃",
+                "picUrl": "http://lyyzch.club/easylife/img/znmyWIFI2.jpg",
+                "bigPicUrl": "http://lyyzch.club/easylife/img/znmyWIFI2-big.jpg"
             }
         ],
         "7": [
@@ -242,19 +257,14 @@
         ],
         "10": [
             {
-                "name": "卡佳斯无线门铃",
-                "picUrl": "http://lyyzch.club/easylife/img/kjswxml1.jpg",
-                "bigPicUrl": "http://lyyzch.club/easylife/img/kjswxml1-big.jpg"
+                "name": "自发电卡佳斯无线门铃",
+                "picUrl": "http://lyyzch.club/easylife/img/zfdwxml1.jpg",
+                "bigPicUrl": "http://lyyzch.club/easylife/img/zfdwxml1-big.jpg"
             },
             {
-                "name": "卡佳斯无线门铃",
-                "picUrl": "http://lyyzch.club/easylife/img/kjswxml2.jpg",
-                "bigPicUrl": "http://lyyzch.club/easylife/img/kjswxml2-big.jpg"
-            },
-            {
-                "name": "卡佳斯无线门铃",
-                "picUrl": "http://lyyzch.club/easylife/img/kjswxml3.jpg",
-                "bigPicUrl": "http://lyyzch.club/easylife/img/kjswxml3-big.jpg"
+                "name": "自发电卡佳斯无线门铃",
+                "picUrl": "http://lyyzch.club/easylife/img/zfdwxml2.jpg",
+                "bigPicUrl": "http://lyyzch.club/easylife/img/zfdwxml2-big.jpg"
             }
         ]
     }
