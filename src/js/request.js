@@ -17,4 +17,5 @@ const cacheTime = function () {
 export const getData = () => axios({
   method: 'get',
   url: window.location.origin + '/easylife/json/data.json?' + cacheTime()
+  // url: 'http://lyyzch.club/easylife/json/data.json?' + cacheTime()
 });

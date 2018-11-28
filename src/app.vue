@@ -7,8 +7,8 @@
       <div class="headerPart">
         <h5>{{name}}<span>Easy Life</span> </h5>
         <h6>{{slogan}}</h6>
-        <p>地址：{{adress}}</p>
-        <p>联系电话：<a :href="'tel:' + phone">{{phone}}</a></p>
+        <p>服务地址：{{adress}}</p>
+        <p>服务电话：<a href="tel:0371-22066620">0371-22066620</a><br/><a :href="'tel:' + phone">{{phone}}</a>(微信同)</p>
         <p class="QRcode-wrapper">
           <span>
             <img :src="wxQRcodeUrl" 
@@ -28,16 +28,18 @@
     <!-- 产品列表 -->
       <div class="list-title-tab">
         <span :class="{'active': tabId == 1}"
-              @click="changeTab(1)">索伯菲智能锁</span><span :class="{'active': tabId == 2}"
-              @click="changeTab(2)">智伴儿童教育机器人</span><span :class="{'active': tabId == 3}"
-              @click="changeTab(3)">腾飞之翼智能锁</span><span :class="{'active': tabId == 4}"
-              @click="changeTab(4)">滴塔狗智能锁</span><span :class="{'active': tabId == 5}"
-              @click="changeTab(5)">伊派尔智能锁</span><span :class="{'active': tabId == 6}"
-              @click="changeTab(6)">智能猫眼</span><span @click="changeTab(7)"
-              :class="{'active': tabId == 7}">智能垃圾桶</span><span @click="changeTab(8)"
-              :class="{'active': tabId == 8}">智能扫地机器人</span><span @click="changeTab(9)"
-              :class="{'active': tabId == 9}">智能窗帘</span><span @click="changeTab(10)"
-              :class="{'active': tabId == 10}">无线门铃</span>
+              @click="changeTab(1)">海尔指纹锁</span><span :class="{'active': tabId == 2}"
+              @click="changeTab(2)">鹿客（小米生态链）指纹锁</span><span :class="{'active': tabId == 3}"
+              @click="changeTab(3)">索伯菲智能锁</span><span :class="{'active': tabId == 4}"
+              @click="changeTab(4)">智伴儿童教育机器人</span><span :class="{'active': tabId ==5}"
+              @click="changeTab(5)">腾飞之翼智能锁</span><span :class="{'active': tabId == 6}"
+              @click="changeTab(6)">滴塔狗智能锁</span><span :class="{'active': tabId == 7}"
+              @click="changeTab(7)">伊派尔智能锁</span><span :class="{'active': tabId == 8}"
+              @click="changeTab(8)">智能猫眼</span><span @click="changeTab(9)"
+              :class="{'active': tabId == 9}">智能垃圾桶</span><span @click="changeTab(10)"
+              :class="{'active': tabId == 10}">智能扫地机器人</span><span @click="changeTab(11)"
+              :class="{'active': tabId == 11}">智能窗帘</span><span @click="changeTab(12)"
+              :class="{'active': tabId == 12}">无线门铃</span>
       </div>
       <div class="list-wapper">
         <div class="products"
@@ -49,8 +51,10 @@
       </div>
     <!-- 产品列表end -->
     <div class="footer">
+      <p>海尔指纹锁兰考县总代理</p>
       <p>浙江索伯菲（中德合资）兰考县总代理</p>
       <p>深圳腾飞之翼兰考县总代理</p>
+      <p>鹿客（小米生态链企业）指纹锁兰考县分销网点</p>
     </div>
     </scroll>
     <!-- 联系我们 -->
@@ -80,7 +84,7 @@
     </div>
     <!-- 全屏显示产品 end -->
     <!-- video -->
-    <div class="video-wrapper"
+    <!-- <div class="video-wrapper"
          v-if="videoShowFlag">
       <video poster="http://hyw4445760001.my3w.com/easylife/img/video-pre.png"
              src="http://hyw4445760001.my3w.com/easylife/video/suobofei.mp4"
@@ -98,9 +102,9 @@
             @click="videoEnd"
             v-show="closeButtomShowFlag">关闭视频</span>
     </div>
-    
+     -->
     <!-- video end  -->
-    <loading :loadingAlreadyFlag="loadingAlreadyFlag"></loading>
+    <!-- <loading :loadingAlreadyFlag="loadingAlreadyFlag"></loading> -->
   </div>
 </template>
 <script>
@@ -118,7 +122,7 @@ export default {
     return {
       name: '智慧生活',
       slogan: '未来城市的推动人',
-      adress: '兰考县健康南路未来都市26-8',
+      adress: '兰考县振兴路与健康南路交叉口往西50米路北（未来城都市26-8）',
       phone: '15515513450',
       wxQRcodeUrl: '',
       zhshQRcodeUrl: '',
@@ -200,8 +204,9 @@ export default {
   .headerPart {
     box-sizing: border-box;
     padding: 1rem;
-    color: #fff;
-    background-image: url("http://hyw4445760001.my3w.com/easylife/img/content-bg.jpg");
+    color: #000000;
+    // background-image: url("http://hyw4445760001.my3w.com/easylife/img/content-bg.jpg");
+    background-color: #cccccc;
     background-size: 100% auto;
     &>p,
     h5,
@@ -244,7 +249,8 @@ export default {
     span {
       display: inline-block;
       padding: 0.5rem 0.5rem;
-      border-right: 1px solid #ccc;
+      // background-color: #ccc;
+      border-right: 1px solid #cccccc;
     }
     span:last-child {
       border: none;
@@ -263,8 +269,9 @@ export default {
     align-items: flex-start;
     justify-content: space-between;
     width: 100%;
-    color: #fff;
-    background-image: url("http://hyw4445760001.my3w.com/easylife/img/content-bg.jpg");
+    color: #000000;
+    // background-image: url("http://hyw4445760001.my3w.com/easylife/img/content-bg.jpg");
+    background-color: #cccccc;
     background-size: 100% auto;
     .products {
       margin-bottom: 0.5rem;

@@ -9,6 +9,35 @@
     "data": {
         "1" : [
             {
+                "name": "海尔指纹锁U0S",
+                "picUrl": "http://lyyzch.club/easylife/img/haierU0S.jpg",
+                "bigPicUrl": "http://lyyzch.club/easylife/img/haierU0S-big.jpg"
+            },
+            {
+                "name": "海尔指纹锁56",
+                "picUrl": "http://lyyzch.club/easylife/img/haier56.jpg",
+                "bigPicUrl": "http://lyyzch.club/easylife/img/haier56-big.jpg"
+            },
+            {
+                "name": "海尔指纹锁63",
+                "picUrl": "http://lyyzch.club/easylife/img/haier63.jpg",
+                "bigPicUrl": "http://lyyzch.club/easylife/img/haier63-big.jpg"
+            },
+            {
+                "name": "海尔指纹锁T51",
+                "picUrl": "http://lyyzch.club/easylife/img/haierT51.jpg",
+                "bigPicUrl": "http://lyyzch.club/easylife/img/haierT51-big.jpg"
+            }
+        ],
+        "2": [
+            {
+                "name": "鹿客Classic",
+                "picUrl": "http://lyyzch.club/easylife/img/lukeClassic.jpg",
+                "bigPicUrl": "http://lyyzch.club/easylife/img/lukeClassic-big.jpg"
+            }
+        ],
+        "3" : [
+            {
                 "name": "索伯菲131-红古-半导体",
                 "picUrl": "http://lyyzch.club/easylife/img/sbf131-hg-cfm.jpg",
                 "bigPicUrl": "http://lyyzch.club/easylife/img/sbf131-hg-cfm-big.jpg"
@@ -84,7 +113,7 @@
                 "bigPicUrl": "http://lyyzch.club/easylife/img/sbf610-big.jpg"
             }
         ],
-        "2": [
+        "4": [
             {
                 "name": "智伴儿童教育机器人",
                 "picUrl": "http://lyyzch.club/easylife/img/zb.jpg",
@@ -111,7 +140,7 @@
                 "bigPicUrl": "http://lyyzch.club/easylife/img/zb4-big.jpg"
             }
         ],
-        "3": [
+        "5": [
             {
                 "name": "腾飞319C-红古-半导体",
                 "picUrl": "http://lyyzch.club/easylife/img/tf319c-hg-cfm.jpg",
@@ -153,12 +182,7 @@
                 "bigPicUrl": "http://lyyzch.club/easylife/img/tf6080-y-ofm-big.jpg"
             }
         ],
-        "4": [
-            {
-                "name": "滴塔狗DT4-全自动指纹锁",
-                "picUrl": "http://lyyzch.club/easylife/img/dtgDT4-hg-cfm.jpg",
-                "bigPicUrl": "http://lyyzch.club/easylife/img/dtgDT4-hg-cfm-big.jpg"
-            },
+        "6": [
             {
                 "name": "滴塔狗DT3-无线分体",
                 "picUrl": "http://lyyzch.club/easylife/img/dtgDT3.jpg",
@@ -168,16 +192,21 @@
                 "name": "滴塔狗DT1-红古-光学",
                 "picUrl": "http://lyyzch.club/easylife/img/dtgDT1-hg-ofp.jpg",
                 "bigPicUrl": "http://lyyzch.club/easylife/img/dtgDT1-hg-ofp.jpg"
+            },
+            {
+                "name": "滴塔狗DT101-红古-半导体",
+                "picUrl": "http://lyyzch.club/easylife/img/dtgDT101-hg.jpg",
+                "bigPicUrl": "http://lyyzch.club/easylife/img/dtgDT101-hg-big.jpg"
             }
         ],
-        "5": [
+        "7": [
             {
                 "name": "伊派尔LE07-人脸识别-红古",
                 "picUrl": "http://lyyzch.club/easylife/img/yprLE-07-hg.jpg",
                 "bigPicUrl": "http://lyyzch.club/easylife/img/yprLE-07-hg-big.jpg"
             }
         ],
-        "6": [
+        "8": [
             {
                 "name": "带移动侦测智能可视猫眼+门铃",
                 "picUrl": "http://lyyzch.club/easylife/img/znmy1.jpg",
@@ -199,14 +228,14 @@
                 "bigPicUrl": "http://lyyzch.club/easylife/img/znmyWIFI2-big.jpg"
             }
         ],
-        "7": [
+        "9": [
             {
                 "name": "智能感应垃圾桶",
                 "picUrl": "http://lyyzch.club/easylife/img/znljt.jpg",
                 "bigPicUrl": "http://lyyzch.club/easylife/img/znljt-big.jpg"
             }
         ],
-        "8": [
+        "10": [
             {
                 "name": "卫博士智能扫地机器人",
                 "picUrl": "http://lyyzch.club/easylife/img/wbs610D1.jpg",
@@ -228,7 +257,7 @@
                 "bigPicUrl": "http://lyyzch.club/easylife/img/wbs610D4-big.jpg"
             }
         ],
-        "9": [
+        "11": [
             {
                 "name": "玛丁智能窗帘",
                 "picUrl": "http://lyyzch.club/easylife/img/mdzncl1.jpg",
@@ -255,7 +284,7 @@
                 "bigPicUrl": "http://lyyzch.club/easylife/img/mdzncl5-big.jpg"
             }
         ],
-        "10": [
+        "12": [
             {
                 "name": "自发电卡佳斯无线门铃",
                 "picUrl": "http://lyyzch.club/easylife/img/zfdwxml1.jpg",
