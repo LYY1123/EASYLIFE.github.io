@@ -84,7 +84,7 @@
     </div>
     <!-- 全屏显示产品 end -->
     <!-- video -->
-    <!-- <div class="video-wrapper"
+    <div class="video-wrapper"
          v-if="videoShowFlag">
       <video poster="http://hyw4445760001.my3w.com/easylife/img/video-pre.png"
              src="http://hyw4445760001.my3w.com/easylife/video/suobofei.mp4"
@@ -102,9 +102,9 @@
             @click="videoEnd"
             v-show="closeButtomShowFlag">关闭视频</span>
     </div>
-     -->
+    
     <!-- video end  -->
-    <!-- <loading :loadingAlreadyFlag="loadingAlreadyFlag"></loading> -->
+    <loading :loadingAlreadyFlag="loadingAlreadyFlag"></loading>
   </div>
 </template>
 <script>
